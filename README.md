@@ -1,4 +1,4 @@
-- 👋 Hi, I’m .... who am i? (note to self, don't forget to delete this before someone sees it)
+- 👋 Hi, Dan here!
 - 👀 I’m interested in playing my electric guitar and traveling, and since i'm on GitHub - developing apps for iPhones.
 - 🌱 I’m currently learning Swift. 
 - 💞️ I’m looking to collaborate on ... making the world a better place. I'm currently learning on how that aligns with my goal of learning Swift.
